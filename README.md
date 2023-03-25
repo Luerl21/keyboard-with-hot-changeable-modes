@@ -1,6 +1,7 @@
 ## Arduino Micro keyboard
 ![Image alt](https://github.com/Luerl21/keyboard-with-hot-changeable-modes/raw/main/img/eeprom-afk-text.jpg)
-
+# Functional keys
+![Image alt](https://github.com/Luerl21/keyboard-with-hot-changeable-modes/raw/main/img/func-keys.png)
 # Modes
 First
 
